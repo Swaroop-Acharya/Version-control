@@ -1,5 +1,3 @@
-
-# Version control Learning
 Types of Version control systems:-
 	Subversion
 	Perforce
@@ -163,5 +161,4 @@ Forking:=
    how-to contribute guide. As you can see, in order to get the changes from our forked repository, 
    you need to compare it against the original. This gives a lot of control to the repository owners of the
    original and they get to decide what makes the cut to be merged in.
-
 
